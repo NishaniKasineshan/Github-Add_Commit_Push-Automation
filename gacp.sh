@@ -1,8 +1,8 @@
 #! /bin/sh
 #script to automatically git add ., git commit -m 'some commit message' and git push 
 
-echo "************Automating git add,commit and push************"
-echo "----------------------------------------------------------"
+echo "****************Automating git add,commit and push****************"
+echo "------------------------------------------------------------------"
 
 addcommitpush(){
     #check git status
